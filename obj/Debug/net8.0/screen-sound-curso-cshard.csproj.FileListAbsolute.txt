@@ -1,0 +1,14 @@
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\bin\Debug\net8.0\screen-sound-curso-cshard.exe
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\bin\Debug\net8.0\screen-sound-curso-cshard.deps.json
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\bin\Debug\net8.0\screen-sound-curso-cshard.runtimeconfig.json
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\bin\Debug\net8.0\screen-sound-curso-cshard.dll
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\bin\Debug\net8.0\screen-sound-curso-cshard.pdb
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\screen-sound-curso-cshard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\screen-sound-curso-cshard.AssemblyInfoInputs.cache
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\screen-sound-curso-cshard.AssemblyInfo.cs
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\screen-sound-curso-cshard.csproj.CoreCompileInputs.cache
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\screen-sound-curso-cshard.dll
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\refint\screen-sound-curso-cshard.dll
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\screen-sound-curso-cshard.pdb
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\screen-sound-curso-cshard.genruntimeconfig.cache
+C:\Users\cesar.junior\source\repos\screen-sound-curso-cshard\obj\Debug\net8.0\ref\screen-sound-curso-cshard.dll

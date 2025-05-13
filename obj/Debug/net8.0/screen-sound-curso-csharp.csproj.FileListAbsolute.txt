@@ -1,0 +1,14 @@
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\bin\Debug\net8.0\screen-sound-curso-csharp.exe
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\bin\Debug\net8.0\screen-sound-curso-csharp.deps.json
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\bin\Debug\net8.0\screen-sound-curso-csharp.runtimeconfig.json
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\bin\Debug\net8.0\screen-sound-curso-csharp.dll
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\bin\Debug\net8.0\screen-sound-curso-csharp.pdb
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.AssemblyInfoInputs.cache
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.AssemblyInfo.cs
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.csproj.CoreCompileInputs.cache
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.dll
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\refint\screen-sound-curso-csharp.dll
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.pdb
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.genruntimeconfig.cache
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\ref\screen-sound-curso-csharp.dll
