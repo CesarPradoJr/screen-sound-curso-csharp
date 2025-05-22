@@ -12,3 +12,4 @@ C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\re
 C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.pdb
 C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.genruntimeconfig.cache
 C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\ref\screen-sound-curso-csharp.dll
+C:\Users\cesar.junior\source\repos\screen-sound-curso-csharp\obj\Debug\net8.0\screen-sound-curso-csharp.sourcelink.json

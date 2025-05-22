@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("screen-sound-curso-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07616c693473d7b1e7b657d2d811a27455b318e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("screen-sound-curso-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("screen-sound-curso-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
